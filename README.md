@@ -22,8 +22,8 @@ And Step by step registration process.
 4. Open `http://localhost:3000` in your browser
 
 ## Screenshots
-![Screenshot 1](.page1.png)
-![Screenshot 2](.page2.png)
+![Screenshot 1][def1]
+![Screenshot 2][def2]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
@@ -34,3 +34,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
+
+
+[def1]: page1.png
+[def2]: page2.png
