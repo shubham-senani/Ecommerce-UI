@@ -30,13 +30,13 @@ const Navbar = () => {
       <div>
         <ul className="d-flex navbar-nav decoration-none mx-5">
           <li className="mx-2 nav-item">
-            <a
-              href=""
-              className="nav-link text-light fw-medium px-3 p-1 rounded"
+            <Link
+              to= "/register"
+              className="nav-link text-light fw-medium px-3 p-1 rounded d-none"
               style={{ backgroundColor: "#502185" }}
             >
               Login
-            </a>
+            </Link>
           </li>
           <li className="mx-2 nav-item">
             <Link
